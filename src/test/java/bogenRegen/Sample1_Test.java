@@ -6,5 +6,6 @@ public class Sample1_Test {
 		
 		System.out.println("work hard to get job...!");
 		System.out.println("hey");
+		System.out.println("ab");
 	}
 }
