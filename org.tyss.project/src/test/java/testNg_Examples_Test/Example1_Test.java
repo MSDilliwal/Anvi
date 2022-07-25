@@ -28,6 +28,7 @@ public class Example1_Test {
 		
 		System.out.println("poll scm");
 		System.out.println("commit aago");
+		System.out.println("git bash commits to anvi");
 				
 	}
 	
